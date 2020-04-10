@@ -1,0 +1,10 @@
+{
+  "name": "saneosiris/void-theme",
+  "description": "Void Theme",
+  "type": "wordpress-theme",
+  "authors": [{
+      "name": "Pierre-Luc Brault",
+      "email": "saneosiris@gmail.com"
+  }],
+  "require": {}
+}
